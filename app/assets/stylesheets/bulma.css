@@ -2673,7 +2673,7 @@ input[type="submit"].button {
 }
 
 .title:not(.is-spaced) + .subtitle {
-  margin-top: -1.5rem;
+  /*margin-top: -1.5rem;*/
 }
 
 .title.is-1 {
